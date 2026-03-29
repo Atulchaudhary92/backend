@@ -1,0 +1,12 @@
+{
+  "name": "video-backend2",
+  "version": "1.0.0",
+  "description": "first_Project",
+  "license": "ISC",
+  "author": "atul chaudhary",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
